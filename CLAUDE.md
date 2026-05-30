@@ -13,7 +13,7 @@
 - 스크립트 실행 시 `python` 대신 `.venv/Scripts/python` 또는 `.venv\Scripts\python`을 사용할 것
 - 패키지 설치 시 `.venv/Scripts/pip install` 사용
 
-가상환경이 없으면 `setup.bat`을 먼저 실행한다.
+**`.venv` 폴더가 없으면 Python 스크립트 실행 전에 `setup.bat`을 먼저 실행한다.**
 
 ## 인증 파일
 
