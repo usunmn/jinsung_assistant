@@ -1,0 +1,13 @@
+# 구글 서비스 계정 키 - 절대 git에 올리지 말 것
+*.json
+!package.json
+
+# 파이썬
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 환경변수
+.env
